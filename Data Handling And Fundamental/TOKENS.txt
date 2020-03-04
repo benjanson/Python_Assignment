@@ -1,0 +1,79 @@
+Basically, python tokens are the small units of the programming language. Python supports different types of Tokens
+
+Keywords
+Identifiers
+Literals
+String
+Numeric
+Collection literals
+List Literals
+Tuples
+
+Keywords :
+These are the dedicated words that have special meaning and functions. Moreover, compiler defines these words. Moreover,  it does not allow users to use these words.. Python compiler has the following words tokens
+
+
+Identifiers :
+Identifiers represent the programmable entities. The programmable entities include user-defined names, variables, modules, and other objects. Moreover, python defines some rules in defining the identifiers. Now let us discuss some of them.
+
+An identifier can be a sequence of lower case (or) upper case (or) integers (or) a combination of any.
+
+The identifier name should start with the lower case (or) upper case (It must not start with digits)
+
+The identifier name should not be a reserved word.
+
+Only Underscore (_) is allowed to use as a special character in identifier names.
+
+The length of the identifier name should not be more than 79 characters
+
+Would you like to know how Machine learning using python
+
+Literals :
+  Literals are used to define the data as a variable or constants. Python has 6 literals tokens.
+   1 String
+   2 Collection Literals(List,Tuples)
+   3 Dictionary
+   4 Numeric
+   5 Set
+   6 Boolean
+
+
+String :
+    The string is a sequence of characters defined between quotes. (both single and double quotes are applicable to define the    string literals. And these strings perform several operations let us discuss some of them.
+
+Syntax	Operation
+    Len(String_name)	String length
+    String_name.index(char)	Locate the character in the string
+    String_name.count(char)
+    String_name[::-1]	Reverse the string
+    String_name.upper()	Converts the strings to upper case
+    String-name.lower	Coverts the string to lower case
+
+
+Boolean:
+This has only two values. i.e true(1) / false(0).
+
+
+Collection literals :
+    A collection literal is a syntactic expression form that evaluates to an aggregate type such as array list (or) Map. Python supports 2 types of collection literal tokens
+
+List Literals :
+    You can consider the python lists as arrays in C. But the difference between the Arrays and lists is that arrays hold homogeneous data type and lists holds the heterogeneous data types. Basically, this list is the most versatile data type in python. Python literals are separated by a comma in []
+
+Tuples :
+    Tuples were similar to list. But like list tuples cannot change the values. Beside, tuples are enclosed in parenthesis. whereas lists are enclosed in square brackets.
+
+    And as said earlier, these tuples performs all the operations like lists. So I would like to leave the operation for you as a practice. And if you struck up anywhere clarify at python training.
+    
+Set :
+A set is a well-defined collection of elements.  And the elements in the set are placed in curly braces separated by a comma. In the set every element is unique
+
+Example:
+    Set 1 = {1 , 2,3}
+    Set 2  = { 1 , 2, 2 , 3}
+
+Dictionaries :
+Python dictionaries are the key value pairs that are enclosed in curly braces.dictionaries are separated by the “:”
+
+Example:
+Dict = {‘name’ : ‘Onlineitguru’, age : 20 }

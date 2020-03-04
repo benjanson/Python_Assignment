@@ -1,0 +1,10 @@
+BAREBONE in python is the structue of any programs by using statements,comments,expression etc that help in creating any simple structure of program 
+
+expression:
+    To evaluate any operation.
+    To assign any operations.
+Statements:
+   To perform any action in our code.
+   Any single line code that we write to perform operation.
+Comments:
+    Comments helps quoating any line  or describing any line of program.

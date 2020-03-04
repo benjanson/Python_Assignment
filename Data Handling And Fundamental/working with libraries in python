@@ -1,0 +1,46 @@
+
+
+Python library is a collection of functions and methods that allows you to perform many actions without writing your code. For example, the Python imaging library (PIL).is one of the core libraries for image manipulation in Python. Pillow is an actively developed fork of PIL. Open-CV Python is a library of Python (also binds to C++, C# etc.) aimed at real-time computer vision and image processing. It makes use of Numpy, another library for numerical operations.
+
+Each library in Python contains a huge number of useful modules that you can import for your every day programming.
+
+There are 20 Python Libraries that you cannot live without:
+
+Requests.           HTTP library.
+Scrapy.             For web scraping.
+wxPython.           A GUI toolkit.
+Pillow.             Imaging library.
+SQLAlchemy.         A database library.
+Beautiful Soup.     XML and HTML parsing library.
+Twisted.            For networking applications development.
+Numpy.              Provides math functions.
+SciPy.              Algorithm and mathematical tools.
+matplotlib.         a numerical plotting library.
+Pygame.             2d game development.
+Pyglet.             A 3d animation and game creation engine.
+pyQT.               For GUI development.
+pywin32.            for interacting with Windows.
+pyGtk.              Python GUI library.
+nltk.               Manipulation of strings.
+Nose.               A testing framework for Python.
+IPython.            Shell for Python.
+Sympy.              Algebraic evaluation, complex numbers, differentiation.
+Scrapy.             A packet sniffer and analyzer.
+
+There are 15 Python libraries for data science, from information extraction to deep learning models. Python uses its rich libraries, easy of use and efficient nature to beat over R and become the data science solutions.
+
+        Beautiful Soup. Extract info from HTML and XML.
+        Numpy. Scientific computing.
+        Scrapy. Extract data and web crawler.
+        SciPy. Signal processing, optimization and statistics.
+        Pandas. Data manipulation and analysis.
+        Scikit-learn. machine learning and data mining.
+        Tensorflow. Machine learning and deep learning.
+        Karas. Neural networks API. Supports deep learning.
+        PyTorch. Neural network modeling libary with GUI.
+        NLTK. Language processing.
+        SpaCy. Large scale extracting and analysing of textual information. Support deep learning.
+        matplotlib. For data visualization.
+        Seaborn. Also for data visualization. Also support for pandas and Numpy.
+        Bokeh. Support large-scale interactivity and visualizations of real-time data sets.
+        Plotly. For making publication-quality plots and graphs. Widely used in finance and geospatial industries.

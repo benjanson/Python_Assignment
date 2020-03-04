@@ -1,0 +1,46 @@
+Operators
+
+Operators are the constructs which can manipulate the value of operands.
+
+Consider the expression 4 + 5 = 9. Here, 4 and 5 are called operands and + is called operator.
+
+Types of Operator
+Python language supports the following types of operators.
+
+Arithmetic Operators
+Comparison (Relational) Operators
+Assignment Operators
+Logical Operators
+Bitwise Operators
+Membership Operators
+Identity Operators
+
+Comparison Operators
+These operators compare the values on either sides of them and decide the relation among them. They are also called Relational operators.
+Example: ==, <=, !=, >=, <>, etc..
+
+Python Bitwise Operators
+Bitwise operator works on bits and performs bit by bit operation. Assume if a = 60; and b = 13; Now in the binary format their values will be 0011 1100 and 0000 1101 respectively. Following table lists out the bitwise operators supported by Python language with an example each in those, we use the above two variables (a and b) as operands −
+
+a = 0011 1100
+
+b = 0000 1101
+-----------------
+a&b = 0000 1100
+a|b = 0011 1101
+a^b = 0011 0001
+~a  = 1100 0011
+
+Python Logical Operators
+There are following logical operators supported by Python language. 
+Examole: not, and, or
+
+Python Membership Operators
+Python’s membership operators test for membership in a sequence, such as strings, lists, or tuples.
+Example: in, not in
+
+Python Identity Operators
+Identity operators compare the memory locations of two objects. There are two Identity operators.
+Example: is, is not
+
+

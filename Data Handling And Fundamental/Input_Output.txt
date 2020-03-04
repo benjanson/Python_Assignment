@@ -1,0 +1,22 @@
+Reading Input From the Keyboard
+Programs often need to obtain data from the user, usually by way of input from the keyboard. The simplest way to accomplish this in Python is with input().
+
+input("")
+
+Reads a line of input from the keyboard.
+
+input() pauses program execution to allow the user to type in a line of input from the keyboard. Once the user presses the Enter key, all characters typed are read and returned as a string:
+
+>>> s = input()   #Input
+foo bar baz
+>>> s
+'foo bar baz'
+
+Output 
+A program will also usually need to present data back to the user. You can display program data to the console in Python with print().
+
+>>> s = input()
+foo bar baz
+>>> s
+'foo bar baz'  #Output
+

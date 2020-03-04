@@ -1,0 +1,5 @@
+Unicode (UTF) − Stands for Unicode Translation Format. It is developed by The Unicode Consortium. if you want to create documents that use characters from multiple character sets, you will be able to do so using the single Unicode character encodings. It provides 3 types of encodings.
+
+    UTF-8 − It comes in 8-bit units (bytes), a character in UTF8 can be from 1 to 4 bytes long, making UTF8 variable width.
+    UTF-16 − It comes in 16-bit units (shorts), it can be 1 or 2 shorts long, making UTF16 variable width.
+    UTF-32 − It comes in 32-bit units (longs). It is a fixed-width format and is always 1 "long" in length.

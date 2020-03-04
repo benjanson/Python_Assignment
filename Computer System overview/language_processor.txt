@@ -1,0 +1,22 @@
+#Language_processor
+
+A language processor is a software program used to perform tasks such like -> program code to machine code.
+it translates the High_Level Language(source codes) to Low_Level(machine codes)
+
+|There are different types of language processors:
+    ~COMPILER
+    ~ASSEMBLER
+    ~INTERPRETER
+
+Compiler:
+     A compiler is a language processor which translate source code from high level language into binary machine code .
+
+Assembler:
+    An assembler translates from a low level language to binary machine code.
+
+Interpreter:
+    An interpreter is different from compiler and assembler . It does not convert program into machine code format instead ot directs the CPU to obey each program statement .
+    
+AFTER THAT:
+    The Hardware perfomrs the task as the given instructions.
+ 

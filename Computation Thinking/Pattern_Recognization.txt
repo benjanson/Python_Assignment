@@ -1,0 +1,5 @@
+                            PATTERN RECOGNIZATION
+
+It is the process of recognizating patterns by using machine learning algorithm.
+it can be defined as the classifiaction of data based knowledge already gained or onstatical information extracted from patterns and their representation 
+one of the important ascepts of the pattern recognizaton is its application potential.

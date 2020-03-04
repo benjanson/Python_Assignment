@@ -1,0 +1,17 @@
+There are many libraries in python some of the popular libraries are NumPy, Supy, Pandas,.....
+    
+    NumPy: It supprts many multi-dimenstional array and matrices, along with large collection of Hign-Level Mathematical Functions to operate on theses arrays. Numpy is free and open source  and has many contributers.
+    
+    Scipy: Its a scientific library for python is an open source, This library depends on NumPy, which provides convinent and multi-dimensional array manipulation. The main reason for building SciPy library is to work with NumPy arrays. Its user friendly and efficient in performing tasks with SciPy library. 
+    The specail about this library is that it has biuild in special mathematical library like: 
+                        > Cubic Root Function
+                        > Exponential Function
+                        > Relative Error Exponential Function
+                        > Log Sum Exponential Function
+                        > Lambert Function
+                        > Permutations and Combinations Function
+                        > Gamma Function
+                        
+   Pandas: Pandas is also a free and open source. Its rich in libraries like providing high-perfomance, easy-to-use data structures and data analysis for python.
+   It is used is wide range of fields including academic and commercial domains including finance, economics, Statistics, Analysis, etc.
+   The best part is if you have worked previously on other libraries like NumPy it is such easy. 
